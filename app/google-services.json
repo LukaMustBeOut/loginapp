@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "923993504793",
+    "project_id": "lukanatsauri-f472c",
+    "storage_bucket": "lukanatsauri-f472c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923993504793:android:3591490b8a9e71024d3e88",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923993504793-hkat69e7buqi9ef9kffvefbt2vn5p28v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvjy6kHj2YB6FDiFnM0ItrjLmVY2Dc7JY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923993504793-hkat69e7buqi9ef9kffvefbt2vn5p28v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
